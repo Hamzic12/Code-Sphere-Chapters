@@ -1,29 +1,36 @@
 <chapter>
 	<title></title>
+
 	<theory>
         	<text></text>
         	<note></note>
     	</theory>
+
 	<warning>
         	<text></text>
         	<note></note>
     	</warning>
+
 	<code>
         	<text></text>
         	<note></note>
     	</code>
+
 	<ai_prompt>
         	<prompt></prompt>
         	<note></note>
     	</ai_prompt>
+
 	<links>
         	<Link></Link>
         	<note></note>
     	</links>
+
 	<video>
         	<file_name></file_name>
         	<note></note>
     	</video>
+
 	<quiz>
 		<question>
             		<text></text>
@@ -33,6 +40,7 @@
             		<answer correct=FALSE></answer>
             		<answer correct=FALSE></answer>
         	</question>
+
 		<question>
 			<text></text>
 			<note></note>
@@ -41,13 +49,14 @@
 			<answer correct=FALSE></answer>
 			<answer correct=FALSE></answer>
         	</question>
+
         	<question>
-        	    <text></text>
-        	    <note></note>
-        	    <answer correct=TRUE></answer>
-        	    <answer correct=FALSE></answer>
-        	    <answer correct=FALSE></answer>
-        	    <answer correct=FALSE></answer>
+			<text></text>
+			<note></note>
+			<answer correct=TRUE></answer>
+			<answer correct=FALSE></answer>
+			<answer correct=FALSE></answer>
+			<answer correct=FALSE></answer>
         	</question>
 	</quiz>
 </chapter>
