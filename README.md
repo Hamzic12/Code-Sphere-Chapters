@@ -1,0 +1,3 @@
+# Code Sphere chapters
+
+This repository was used to store the .zip files containing the XML file, following the Structure.xsd schema, along with .mp4 video files. The XML files are used to define the structure of educational content, which is then processed by the application for display. The .zip files allow for easy packaging of content, ensuring consistency in file organization and ease of distribution across platforms.
